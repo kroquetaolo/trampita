@@ -1,0 +1,86 @@
+[
+  {
+    "idMarvel": 1009368,
+    "nombre": "Iron Man",
+    "poder": 92,
+    "ataques": ["Rayos repulsores", "Vuelo", "Armadura avanzada"],
+    "imagenUrl": "http://i.annihil.us/u/prod/marvel/i/mg/9/c0/527bb7b37ff55.jpg"
+  },
+  {
+    "idMarvel": 1009610,
+    "nombre": "Thor",
+    "poder": 95,
+    "ataques": ["Mjolnir", "Control sobre el clima", "Fuerza sobrehumana"],
+    "imagenUrl": "http://i.annihil.us/u/prod/marvel/i/mg/3/50/526548a343e4b.jpg"
+  },
+  {
+    "idMarvel": 1009220,
+    "nombre": "Hulk",
+    "poder": 90,
+    "ataques": ["Fuerza descomunal", "Regeneración", "Resistencia"],
+    "imagenUrl": "http://i.annihil.us/u/prod/marvel/i/mg/3/50/537ba56d31087.jpg"
+  },
+  {
+    "idMarvel": 1009664,
+    "nombre": "SpiderMan",
+    "poder": 85,
+    "ataques": ["Telarañas", "Sentido arácnido", "Agilidad sobrehumana"],
+    "imagenUrl": "http://i.annihil.us/u/prod/marvel/i/mg/d/d0/5269657a74350.jpg"
+  },
+  {
+    "idMarvel": 1009189,
+    "nombre": "Capitan America",
+    "poder": 88,
+    "ataques": ["Escudo indestructible", "Habilidades de combate", "Resistencia mejorada"],
+    "imagenUrl": "http://i.annihil.us/u/prod/marvel/i/mg/f/30/50fecad1f395b.jpg"
+  },
+  {
+    "idMarvel": 1009351,
+    "nombre": "BlackWidow",
+    "poder": 82,
+    "ataques": ["Habilidades de espionaje", "Artes marciales", "Táctica avanzada"],
+    "imagenUrl": "http://i.annihil.us/u/prod/marvel/i/mg/5/a0/538615ca33ab0.jpg"
+  },
+  {
+    "idMarvel": 1009282,
+    "nombre": "Doctor Strange",
+    "poder": 93,
+    "ataques": ["Hechicería", "Manipulación del tiempo", "Proyección astral"],
+    "imagenUrl": "http://i.annihil.us/u/prod/marvel/i/mg/5/f0/5261a85a501fe.jpg"
+  },
+  {
+    "idMarvel": 1009187,
+    "nombre": "BlackPanther",
+    "poder": 87,
+    "ataques": ["Habilidades de lucha", "Agilidad", "Sentido agudo"],
+    "imagenUrl": "http://i.annihil.us/u/prod/marvel/i/mg/6/60/5261a80a67e7d.jpg"
+  },
+  {
+    "idMarvel": 1009718,
+    "nombre": "Wolverine",
+    "poder": 89,
+    "ataques": ["Garras retráctiles", "Factor curativo", "Sentidos agudizados"],
+    "imagenUrl": "http://i.annihil.us/u/prod/marvel/i/mg/2/60/537bcaef0f6cf.jpg"
+  },
+  {
+    "idMarvel": 1009662,
+    "nombre": "Vision",
+    "poder": 94,
+    "ataques": ["Fuerza sobrehumana", "Disparo de energía", "Inteligencia artificial avanzada"],
+    "imagenUrl": "http://i.annihil.us/u/prod/marvel/i/mg/9/00/527bb4d36b5c2.jpg"
+  },
+  {
+    "idMarvel": 1010733,
+    "nombre": "Gamora",
+    "poder": 86,
+    "ataques": ["Habilidades de lucha", "Maestría con armas", "Resistencia aumentada"],
+    "imagenUrl": "http://i.annihil.us/u/prod/marvel/i/mg/9/a0/537bc55e8b1f5.jpg"
+  },
+  {
+    "idMarvel": 1010802,
+    "nombre": "AntMan",
+    "poder": 83,
+    "ataques": ["Manipulación del tamaño", "Comunicación con hormigas", "Sigilo"],
+    "imagenUrl": "http://i.annihil.us/u/prod/marvel/i/mg/9/c0/53176aa9df48d.jpg"
+  }
+]
