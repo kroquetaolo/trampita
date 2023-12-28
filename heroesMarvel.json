@@ -9,31 +9,31 @@
     "nombre": "Thor",
     "poder": 95,
     "ataques": ["Mjolnir", "Control sobre el clima", "Fuerza sobrehumana"],
-    "imagenUrl": "http://i.annihil.us/u/prod/marvel/i/mg/3/50/526548a343e4b.jpg"
+    "imagenUrl": "http://i.annihil.us/u/prod/marvel/i/mg/d/d0/5269657a74350.jpg"
   },
   {
     "nombre": "Hulk",
     "poder": 90,
     "ataques": ["Fuerza descomunal", "Regeneración", "Resistencia"],
-    "imagenUrl": "http://i.annihil.us/u/prod/marvel/i/mg/3/50/537ba56d31087.jpg"
+    "imagenUrl": "http://i.annihil.us/u/prod/marvel/i/mg/5/a0/538615ca33ab0.jpg"
   },
   {
     "nombre": "SpiderMan",
     "poder": 85,
     "ataques": ["Telarañas", "Sentido arácnido", "Agilidad sobrehumana"],
-    "imagenUrl": "http://i.annihil.us/u/prod/marvel/i/mg/d/d0/5269657a74350.jpg"
+    "imagenUrl": "http://i.annihil.us/u/prod/marvel/i/mg/3/50/526548a343e4b.jpg"
   },
   {
     "nombre": "Capitan America",
     "poder": 88,
     "ataques": ["Escudo indestructible", "Habilidades de combate", "Resistencia mejorada"],
-    "imagenUrl": "http://i.annihil.us/u/prod/marvel/i/mg/f/30/50fecad1f395b.jpg"
+    "imagenUrl": "http://i.annihil.us/u/prod/marvel/i/mg/3/50/537ba56d31087.jpg"
   },
   {
     "nombre": "BlackWidow",
     "poder": 82,
     "ataques": ["Habilidades de espionaje", "Artes marciales", "Táctica avanzada"],
-    "imagenUrl": "http://i.annihil.us/u/prod/marvel/i/mg/5/a0/538615ca33ab0.jpg"
+    "imagenUrl": "http://i.annihil.us/u/prod/marvel/i/mg/f/30/50fecad1f395b.jpg"
   },
   {
     "nombre": "Doctor Strange",
@@ -57,13 +57,13 @@
     "nombre": "Vision",
     "poder": 94,
     "ataques": ["Fuerza sobrehumana", "Disparo de energía", "Inteligencia artificial avanzada"],
-    "imagenUrl": "http://i.annihil.us/u/prod/marvel/i/mg/9/00/527bb4d36b5c2.jpg"
+    "imagenUrl": "http://i.annihil.us/u/prod/marvel/i/mg/9/d0/5111527040594.jpg"
   },
   {
     "nombre": "Gamora",
     "poder": 86,
     "ataques": ["Habilidades de lucha", "Maestría con armas", "Resistencia aumentada"],
-    "imagenUrl": "http://i.annihil.us/u/prod/marvel/i/mg/9/a0/537bc55e8b1f5.jpg"
+    "imagenUrl": "http://i.annihil.us/u/prod/marvel/i/mg/5/90/526032a2cce62.jpg"
   },
   {
     "nombre": "AntMan",
