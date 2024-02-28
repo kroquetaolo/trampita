@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "category": "Men's Clothing",
+    "price": 29.99,
+    "image": "shirt1.png",
+    "title": "Striped Cotton Shirt",
+    "description": "This stylish striped cotton shirt is perfect for any formal or casual occasion. Its classic design and comfortable fabric make it a versatile choice for your wardrobe.",
+    "color": "#336699"
+  },
+  {
+    "id": 2,
+    "category": "Men's Clothing",
+    "price": 39.99,
+    "image": "shirt2.png",
+    "title": "Denim Jacket",
+    "description": "Stay trendy with this classic denim jacket. Its rugged yet stylish look pairs perfectly with any outfit, making it a must-have for any fashion-forward man.",
+    "color": "#000000"
+  },
+  {
+    "id": 3,
+    "category": "Men's Clothing",
+    "price": 49.99,
+    "image": "pants1.png",
+    "title": "Slim Fit Chinos",
+    "description": "Upgrade your casual look with these slim fit chinos. Made from high-quality fabric, these pants offer both style and comfort for any occasion.",
+    "color": "#228B22"
+  },
+  {
+    "id": 4,
+    "category": "Men's Clothing",
+    "price": 59.99,
+    "image": "jacket1.png",
+    "title": "Leather Biker Jacket",
+    "description": "Make a statement with this classic leather biker jacket. Its timeless design and durable construction ensure that you'll look effortlessly cool wherever you go.",
+    "color": "#8B4513"
+  },
+  {
+    "id": 5,
+    "category": "Men's Clothing",
+    "price": 19.99,
+    "image": "tshirt1.png",
+    "title": "Graphic Print T-Shirt",
+    "description": "Add some personality to your wardrobe with this graphic print t-shirt. Its soft fabric and eye-catching design make it a fun and stylish choice for everyday wear.",
+    "color": "#FF0000"
+  },
+  {
+    "id": 6,
+    "category": "Men's Clothing",
+    "price": 79.99,
+    "image": "suit1.png",
+    "title": "Tailored Suit",
+    "description": "Look sharp and sophisticated in this tailored suit. Perfect for weddings, business meetings, or any formal event, this suit will ensure you stand out from the crowd.",
+    "color": "#0000FF"
+  }
+]
