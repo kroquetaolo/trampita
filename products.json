@@ -1,110 +1,164 @@
 [
-  {
-    "id": 1,
-    "category": "Men's Clothing",
-    "price": 29.99,
-    "title": "Striped Cotton Shirt",
-    "description": "This stylish striped cotton shirt is perfect for any formal or casual occasion. Its classic design and comfortable fabric make it a versatile choice for your wardrobe.",
-    "color": "#336699",
-    "stock": 15
-  },
-  {
-    "id": 2,
-    "category": "Men's Clothing",
-    "price": 39.99,
-    "title": "Denim Jacket",
-    "description": "Stay trendy with this classic denim jacket. Its rugged yet stylish look pairs perfectly with any outfit, making it a must-have for any fashion-forward man.",
-    "color": "#000000",
-    "stock": 12
-  },
-  {
-    "id": 3,
-    "category": "Men's Clothing",
-    "price": 49.99,
-    "title": "Slim Fit Chinos",
-    "description": "Upgrade your casual look with these slim fit chinos. Made from high-quality fabric, these pants offer both style and comfort for any occasion.",
-    "color": "#228B22",
-    "stock": 18
-  },
-  {
-    "id": 4,
-    "category": "Men's Clothing",
-    "price": 59.99,
-    "title": "Leather Biker Jacket",
-    "description": "Make a statement with this classic leather biker jacket. Its timeless design and durable construction ensure that you'll look effortlessly cool wherever you go.",
-    "color": "#8B4513",
-    "stock": 10
-  },
-  {
-    "id": 5,
-    "category": "Men's Clothing",
-    "price": 19.99,
-    "title": "Graphic Print T-Shirt",
-    "description": "Add some personality to your wardrobe with this graphic print t-shirt. Its soft fabric and eye-catching design make it a fun and stylish choice for everyday wear.",
-    "color": "#FF0000",
-    "stock": 20
-  },
-  {
-    "id": 6,
-    "category": "Men's Clothing",
-    "price": 79.99,
-    "title": "Tailored Suit",
-    "description": "Look sharp and sophisticated in this tailored suit. Perfect for weddings, business meetings, or any formal event, this suit will ensure you stand out from the crowd.",
-    "color": "#0000FF",
-    "stock": 8
-  },
-  {
-    "id": 7,
-    "category": "Women's Clothing",
-    "price": 34.99,
-    "title": "Floral Maxi Dress",
-    "description": "Embrace your feminine side with this stunning floral maxi dress. Its flowing silhouette and vibrant print make it a perfect choice for any special occasion.",
-    "color": "#FF1493",
-    "stock": 16
-  },
-  {
-    "id": 8,
-    "category": "Women's Clothing",
-    "price": 44.99,
-    "title": "Knit Sweater",
-    "description": "Stay cozy and stylish with this knit sweater. Its soft fabric and relaxed fit make it a go-to option for chilly days and casual outings.",
-    "color": "#800080",
-    "stock": 14
-  },
-  {
-    "id": 9,
-    "category": "Women's Clothing",
-    "price": 29.99,
-    "title": "High-Waisted Jeans",
-    "description": "Achieve a flattering silhouette with these high-waisted jeans. Their stretchy fabric and slim fit design provide both comfort and style.",
-    "color": "#0000CD",
-    "stock": 12
-  },
-  {
-    "id": 10,
-    "category": "Women's Clothing",
-    "price": 49.99,
-    "title": "Wrap Blouse",
-    "description": "Elevate your look with this chic wrap blouse. Its draped design and subtle sheen add a touch of elegance to any outfit.",
-    "color": "#FF4500",
-    "stock": 10
-  },
-  {
-    "id": 11,
-    "category": "Women's Clothing",
-    "price": 39.99,
-    "title": "Pleated Midi Skirt",
-    "description": "Make a statement with this pleated midi skirt. Its classic silhouette and versatile design make it a wardrobe essential for any fashion-forward woman.",
-    "color": "#4682B4",
-    "stock": 18
-  },
-  {
-    "id": 12,
-    "category": "Women's Clothing",
-    "price": 59.99,
-    "title": "Trench Coat",
-    "description": "Stay stylish and dry in this classic trench coat. Its timeless design and water-resistant fabric make it a practical yet fashionable choice for any rainy day.",
-    "color": "#696969",
-    "stock": 5
-  }
+    {
+        "id": 1,
+        "category": "Men's Clothing",
+        "price": 29.99,
+        "title": "Striped Cotton Shirt",
+        "description": "This stylish striped cotton shirt is perfect for any formal or casual occasion. Its classic design and comfortable fabric make it a versatile choice for your wardrobe.",
+        "color": "#336699",
+        "stock": 15
+    },
+    {
+        "id": 2,
+        "category": "Men's Clothing",
+        "price": 39.99,
+        "title": "Denim Jacket",
+        "description": "Stay trendy with this classic denim jacket. Its rugged yet stylish look pairs perfectly with any outfit, making it a must-have for any fashion-forward man.",
+        "color": "#000000",
+        "stock": 12
+    },
+    {
+        "id": 3,
+        "category": "Men's Clothing",
+        "price": 49.99,
+        "title": "Slim Fit Chinos",
+        "description": "Upgrade your casual look with these slim fit chinos. Made from high-quality fabric, these pants offer both style and comfort for any occasion.",
+        "color": "#228B22",
+        "stock": 18
+    },
+    {
+        "id": 4,
+        "category": "Men's Clothing",
+        "price": 59.99,
+        "title": "Leather Biker Jacket",
+        "description": "Make a statement with this classic leather biker jacket. Its timeless design and durable construction ensure that you'll look effortlessly cool wherever you go.",
+        "color": "#8B4513",
+        "stock": 10
+    },
+    {
+        "id": 5,
+        "category": "Men's Clothing",
+        "price": 19.99,
+        "title": "Graphic Print T-Shirt",
+        "description": "Add some personality to your wardrobe with this graphic print t-shirt. Its soft fabric and eye-catching design make it a fun and stylish choice for everyday wear.",
+        "color": "#FF0000",
+        "stock": 20
+    },
+    {
+        "id": 6,
+        "category": "Men's Clothing",
+        "price": 79.99,
+        "title": "Tailored Suit",
+        "description": "Look sharp and sophisticated in this tailored suit. Perfect for weddings, business meetings, or any formal event, this suit will ensure you stand out from the crowd.",
+        "color": "#0000FF",
+        "stock": 8
+    },
+    {
+        "id": 7,
+        "category": "Women's Clothing",
+        "price": 34.99,
+        "title": "Floral Maxi Dress",
+        "description": "Embrace your feminine side with this stunning floral maxi dress. Its flowing silhouette and vibrant print make it a perfect choice for any special occasion.",
+        "color": "#FF1493",
+        "stock": 16
+    },
+    {
+        "id": 8,
+        "category": "Women's Clothing",
+        "price": 44.99,
+        "title": "Knit Sweater",
+        "description": "Stay cozy and stylish with this knit sweater. Its soft fabric and relaxed fit make it a go-to option for chilly days and casual outings.",
+        "color": "#800080",
+        "stock": 14
+    },
+    {
+        "id": 9,
+        "category": "Women's Clothing",
+        "price": 29.99,
+        "title": "High-Waisted Jeans",
+        "description": "Achieve a flattering silhouette with these high-waisted jeans. Their stretchy fabric and slim fit design provide both comfort and style.",
+        "color": "#0000CD",
+        "stock": 12
+    },
+    {
+        "id": 10,
+        "category": "Women's Clothing",
+        "price": 49.99,
+        "title": "Wrap Blouse",
+        "description": "Elevate your look with this chic wrap blouse. Its draped design and subtle sheen add a touch of elegance to any outfit.",
+        "color": "#FF4500",
+        "stock": 10
+    },
+    {
+        "id": 11,
+        "category": "Women's Clothing",
+        "price": 39.99,
+        "title": "Pleated Midi Skirt",
+        "description": "Make a statement with this pleated midi skirt. Its classic silhouette and versatile design make it a wardrobe essential for any fashion-forward woman.",
+        "color": "#4682B4",
+        "stock": 18
+    },
+    {
+        "id": 12,
+        "category": "Women's Clothing",
+        "price": 59.99,
+        "title": "Trench Coat",
+        "description": "Stay stylish and dry in this classic trench coat. Its timeless design and water-resistant fabric make it a practical yet fashionable choice for any rainy day.",
+        "color": "#696969",
+        "stock": 5
+    },
+    {
+        "id": 13,
+        "category": "Jewelry",
+        "price": 79.99,
+        "title": "Silver Pendant Necklace",
+        "description": "Add a touch of elegance to any outfit with this stunning silver pendant necklace. Its timeless design and delicate chain make it a perfect accessory for both casual and formal occasions.",
+        "color": "#C0C0C0",
+        "stock": 10
+    },
+    {
+        "id": 14,
+        "category": "Jewelry",
+        "price": 129.99,
+        "title": "Diamond Stud Earrings",
+        "description": "Make a statement with these exquisite diamond stud earrings. Their sparkling diamonds and classic design will instantly elevate any look.",
+        "color": "#FFFFFF",
+        "stock": 15
+    },
+    {
+        "id": 15,
+        "category": "Jewelry",
+        "price": 99.99,
+        "title": "Gold Bracelet",
+        "description": "Enhance your wrist with this elegant gold bracelet. Its polished finish and timeless style make it a versatile accessory for any occasion.",
+        "color": "#FFD700",
+        "stock": 8
+    },
+    {
+        "id": 16,
+        "category": "Jewelry",
+        "price": 149.99,
+        "title": "Pearl Necklace",
+        "description": "Channel sophistication with this classic pearl necklace. Its lustrous pearls and timeless design make it a must-have addition to any jewelry collection.",
+        "color": "#FAEBD7",
+        "stock": 12
+    },
+    {
+        "id": 17,
+        "category": "Jewelry",
+        "price": 69.99,
+        "title": "Silver Hoop Earrings",
+        "description": "Add a touch of glamour to your look with these stylish silver hoop earrings. Their versatile design makes them perfect for both casual and formal wear.",
+        "color": "#C0C0C0",
+        "stock": 20
+    },
+    {
+        "id": 18,
+        "category": "Jewelry",
+        "price": 199.99,
+        "title": "Emerald Ring",
+        "description": "Make a statement with this stunning emerald ring. Its vibrant emerald stone and intricate setting will dazzle on any occasion.",
+        "color": "#50C878",
+        "stock": 6
+    }
 ]
